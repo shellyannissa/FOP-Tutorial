@@ -14,7 +14,7 @@ This is a repository with programs written in Scheme language as part of the cou
 2. Sample usage of cond statement
 3. Sample usage of switch statement
 4. Constructing a list of numbers form n to 1
-5. Appending a two lists
+5. Appending two lists
 6. Factorial (iteratively)
 7. Remove Duplicates from list ( using inbuilt member function )
 8. Remove Duplicates from list ( with user defind search function)
