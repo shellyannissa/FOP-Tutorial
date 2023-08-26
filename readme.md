@@ -17,7 +17,7 @@ This is a repository with programs written in Scheme language as part of the cou
 5. Appending two lists
 6. Factorial (iteratively)
 7. Remove Duplicates from list ( using inbuilt member function )
-8. Remove Duplicates from list ( with user defind search function)
+8. Remove Duplicates from list ( with user defined search function)
 9. Check if a given number is perfect square
 10. Check if given number is perfect square ( with binary search)
 11. Second largest number in a list
