@@ -1,5 +1,5 @@
-;Max-tup function returns a tuple of two elements- the largest and second largest number
-;if (m1, m2) is the two largest numbers returned from the list so far (m1 > m2)
+;Max-tup function returns a tuple of two elements- the largest and second largest number 
+;if (m1, m2) is the two tuple returned from the list so far (m1 > m2)
 ;for a new number num being added to the list there are three cases
 ;Case I(num > m2 & num > m1 )
 ;    return (num, m1)
@@ -13,7 +13,7 @@
 (define (max-tup lst)
     (cond
         ;base case
-        ((null? (cdr lst)) (list (car lst) 0)) 
+        ((null? (cdr lst)) (list (car lst) (car lst) )) 
 
         ;Case I
         ( (< (car (max-tup (cdr lst))) (car lst) )  (list (car lst) (car (max-tup (cdr lst)))))
@@ -33,3 +33,5 @@
 
 
 (display (first-func '( 2 5 3 13 4 9)))
+(display #\newline)
+(display (first-func '( -2 -7 -13 -18 -14 -9)))
