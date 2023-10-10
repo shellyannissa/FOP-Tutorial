@@ -2,7 +2,7 @@
 
 This is a repository with programs written in Scheme language as part of the course curriculum Foundations of Programming ( FOP )
 
-![alt text](./assets/Screenshot%202023-08-27%20at%2012.30.14%20PM.png)
+![alt text](./assets/Screenshot%202023-08-27%20at%2012.33.20%20PM.png)
 
 ![alt text](./assets/Screenshot%202023-08-26%20at%2011.04.06%20AM.png)
 
